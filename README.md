@@ -15,6 +15,6 @@
 <details>
   <summary><strong>GitHub Stats<strong/></summary>
 
-  <img align="left" alt="GitHub top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuredev&hide=html&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=fff&title_color=58a6ff&icon_color=58a6ff" />
+  <img align="left" alt="GitHub top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuredev&hide=html,css&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=fff&title_color=58a6ff&icon_color=58a6ff" />
 
 </details>
