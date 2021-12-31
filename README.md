@@ -9,7 +9,7 @@
 - 🖥️ Computer Technician by [@**EAJ-UFRN**](https://eaj.ufrn.br/)
 ### **Contact**
 
-- 💼 Linkedin: [https://www.linkedin.com/in/yure-matias-b4019018a/](https://www.linkedin.com/in/yure-matias-b4019018a/)
+- 💼 Linkedin: [linkedin.com/in/yure-matias-b4019018a/](https://www.linkedin.com/in/yure-matias-b4019018a/)
 - 📫 Email: [yurematias26@gmail.com](mailto:yurematias26@gmail.com)
 
 <details>
