@@ -3,7 +3,7 @@
   <img align="right" alt="GIF" src="coder.png" height="250" />
 
  ### **Who am i?**
-- 👨‍💻 Intern Web/Mobile Developer on [@**LogAp Sistemas**](https://www.logap.com.br/)
+- 👨‍💻 Mobile Developer at [@**LogAp Sistemas**](https://www.logap.com.br/)
 - 🎓 Graduating on Analysis and Systems Development at [@**UFRN**](https://www.ufrn.br/)
 - 🔍 Former Researcher at @[**TAPIOCA-LAB**](http://tapioca.eaj.ufrn.br/?page_id=50&lang=en)
 - 🖥️ Computer Technician by [@**EAJ-UFRN**](https://eaj.ufrn.br/)
