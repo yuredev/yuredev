@@ -1,6 +1,6 @@
 ## 👤 Yure Matias - @yuredev
 
-  <img align="right" alt="GIF" src="coder.png" height="250" />
+  <img align="right" src="coder.png" height="250" />
 
  ### **Who am i?**
 - 👨‍💻 Mobile Developer at [@**LogAp Sistemas**](https://www.logap.com.br/)
