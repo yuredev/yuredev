@@ -15,7 +15,9 @@
 
 <details>
  <summary><strong>Already Worked With<strong/></summary> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="" alt="J" width="50 height="50/>
+  
+  <p> <br/>
+     <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="" alt="J" width="50 height="50/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="" alt="J" width="50 height="50/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="" alt="J" width="50 height="50/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="" alt="J" width="50 height="50/>
@@ -25,6 +27,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="" alt="J" width="50 height="50/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" title="" alt="J" width="50 height="50/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="" alt="J" width="50 height="50/>
+  </p><br/>
 </details>
 
 <details>
