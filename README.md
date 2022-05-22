@@ -14,7 +14,7 @@
 - 📫 Email: [yurematias26@gmail.com](mailto:yurematias26@gmail.com)
 
 <details>
- <summary><strong>Already Worked With<strong/></summary> 
+ <summary><strong>Experience<strong/></summary> 
   
   <p> <br/>
      <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="" alt="J" width="50 height="50/>
