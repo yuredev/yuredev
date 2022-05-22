@@ -2,11 +2,12 @@
 
 <img align="right" src="coder.png" height="250" />
 
- ### **Who am i?**
-- 👨‍💻 Mobile Developer at [@**LogAp Sistemas**](https://www.logap.com.br/)
-- 🎓 Graduating on Analysis and Systems Development at [@**UFRN**](https://www.ufrn.br/)
+### **Who am i?**
+ 
+- 👨‍💻 Flutter Mobile Developer at [@**LogAp I.T. Solutions**](https://www.logap.com.br/)
+- 🎓 Next to finish the college of Analysis and Systems Development at [@**UFRN**](https://www.ufrn.br/)
 - 🔍 Former Researcher at @[**TAPIOCA-LAB**](http://tapioca.eaj.ufrn.br/?page_id=50&lang=en)
-- 🖥️ Computer Technician by [@**EAJ-UFRN**](https://eaj.ufrn.br/)
+
 ### **Contact**
 
 - 💼 Linkedin: [linkedin.com/in/yure-matias-b4019018a/](https://www.linkedin.com/in/yure-matias-b4019018a/)
