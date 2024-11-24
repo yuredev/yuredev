@@ -4,9 +4,9 @@
 
 ### **Who am i?**
  
-- 👨‍💻 Full Stack Developer (Flutter, .NET) at [@**LogAp I.T. Solutions**](https://www.logap.com.br/)
-- 🎓 Technical degree in Analysis and Systems Development by [@**UFRN**](https://www.ufrn.br/)
-- 🔍 Former Researcher at @[**TAPIOCA-LAB**](http://tapioca.eaj.ufrn.br/?page_id=50&lang=en)
+- 👨‍💻 Full Stack Developer (Flutter, .NET) at [@**LogAp I.T. Solutions**](https://logap.com.br/en/)
+- 🎓 Technical degree in Analysis and Systems Development by [@**UFRN**](https://www.ufrn.br/en)
+- 🔍 Former Researcher at [**@TAPIOCA-LAB**](https://tapioca.eaj.ufrn.br/?page_id=50&lang=en)
 
 ### **Contact**
 
