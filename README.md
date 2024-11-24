@@ -1,6 +1,6 @@
 ## 👤 Yure Matias - @yuredev
 
-<img align="right" src="coder.gif" height="250" />
+<img align="right" src="coder.gif" height="225" />
 
 ### **Who am i?**
  
