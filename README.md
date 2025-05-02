@@ -4,7 +4,7 @@
 
 ### **Who am i?**
  
-- 👨‍💻 Full Stack Developer (Flutter, Java, JavaScript) at [@**LogAp I.T. Solutions**](https://logap.com.br/en/)
+- 👨‍💻 Full Stack Developer at [@**LogAp I.T. Solutions**](https://logap.com.br/en/)
 - 🎓 Graduated in Analysis and Systems Development by [@**UFRN**](https://www.ufrn.br/en)
 - 🎓 Computer Technician by [@**UFRN**](https://www.ufrn.br/en)
 - 🔍 Former Researcher at [**@TAPIOCA-LAB**](https://tapioca.eaj.ufrn.br/?page_id=50&lang=en)
