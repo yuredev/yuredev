@@ -4,10 +4,9 @@
 
 ### **Who am i?**
  
-- 👨‍💻 Full Stack Developer at [@**LogAp I.T. Solutions**](https://logap.com.br/en/)
+- 👨‍💻 Full Stack Developer at [@**CRP Technology**](https://crptecnologia.com.br/)
 - 🎓 Graduated in Analysis and Systems Development by [@**UFRN**](https://www.ufrn.br/en)
 - 🎓 Computer Technician by [@**UFRN**](https://www.ufrn.br/en)
-- 🔍 Former Researcher at [**@TAPIOCA-LAB**](https://tapioca.eaj.ufrn.br/?page_id=50&lang=en)
 
 ### **Contact**
 
