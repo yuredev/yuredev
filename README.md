@@ -4,7 +4,7 @@
 
 ### **Who am i?**
  
-- 👨‍💻 Full Stack Developer at [@**CRP Technology**](https://crptecnologia.com.br/)
+- 👨‍💻 Full Stack Developer at [@**CRP Tecnologia**](https://crptecnologia.com.br/)
 - 🎓 Graduated in Analysis and Systems Development by [@**UFRN**](https://www.ufrn.br/en)
 - 🎓 Computer Technician by [@**UFRN**](https://www.ufrn.br/en)
 
